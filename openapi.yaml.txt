@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "ADHD Business Coach – by Spies Coaching",
+  "name_for_model": "adhd_business_coach",
+  "description_for_human": "Business coaching for ADHD entrepreneurs in the UK. Free discovery call available.",
+  "description_for_model": "Provides ADHD-focused business coaching services, FAQs, and booking options for entrepreneurs in the UK.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://SpiesCoaching.github.io/adhd-business-coach-plugin/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://www.spiescoaching.co.uk/logo.png",
+  "contact_email": "contact@spiescoaching.co.uk",
+  "legal_info_url": "https://www.spiescoaching.co.uk/terms"
+}
